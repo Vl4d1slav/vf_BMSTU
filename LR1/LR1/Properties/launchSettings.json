@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LR1": {
+      "commandName": "Project",
+      "commandLineArgs": "1 -5 -36"
+    }
+  }
+}

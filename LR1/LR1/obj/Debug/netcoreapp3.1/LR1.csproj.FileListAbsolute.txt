@@ -1,0 +1,13 @@
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.exe
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.deps.json
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.json
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.runtimeconfig.dev.json
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.dll
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\bin\Debug\netcoreapp3.1\LR1.pdb
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.csprojAssemblyReference.cache
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.AssemblyInfoInputs.cache
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.AssemblyInfo.cs
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.csproj.CoreCompileInputs.cache
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.dll
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.pdb
+D:\2nd course\Basic Components of Internet Technologies\Projects\LR1\LR1\obj\Debug\netcoreapp3.1\LR1.genruntimeconfig.cache
